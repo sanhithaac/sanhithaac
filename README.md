@@ -1,5 +1,5 @@
-<h2 align="center">Hi , I'm Shaik Abdus Sattar</h2>
-<h3 align="center">Machine Learning Engineer | Problem Solver | Full-Stack Developer</h3>
+<h2 align="center">Hi , I'm AC Sanhitha Reddy</h2>
+<h3 align="center">Machine Learning Engineer |Problem Solver </h3>
 
 ---
 
