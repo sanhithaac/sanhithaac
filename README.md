@@ -8,7 +8,7 @@
 I am a **Computer Science Engineering undergraduate** at **Amrita Vishwa Vidyapeetham** with a strong interest in building **intelligent, scalable, and production-ready AI systems**.  
 I enjoy working at the intersection of **Machine Learning, Deep Learning, NLP, Computer Vision**, and **Full-Stack Development**.
 
-My work focuses on **designing efficient algorithms**, developing **end-to-end ML pipelines**, and **deploying real-world applications** using modern cloud and MLOps practices.  
+My work focuses on **designing efficient algorithms**, developing **end-to-end ML pipelines**.  
 I’m particularly driven by solving complex problems, optimizing system performance, and turning research ideas into practical, usable solutions.
 
 ---
