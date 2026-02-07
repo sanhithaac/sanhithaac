@@ -35,6 +35,25 @@ I’m particularly driven by solving complex problems, optimizing system perform
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+**Specializations:** Deep Learning, Time-Series Modeling, Auto Encoders
+
+---
+
+### **Backend & Systems**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Focus Areas:** Low-Latency Systems, REST APIs
+
+---
+
+### **Data & Visualization**
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ---
 
 ### **MLOps & DevOps**
@@ -73,12 +92,30 @@ I’m particularly driven by solving complex problems, optimizing system perform
 
 ---
 
+##  Certifications
+
+- **AWS Cloud Practitioner Essentials** – AWS (2025)
+- **Machine Learning Specialization** – Stanford Online (2025)
+- **Deep Learning Specialization** – DeepLearning.ai (2025)
+
+---
+
+##  Achievements & Leadership
+
+- **AIR 118** – AEEE Exam (2023)
+- **1st Place** – PyTorch: Fire It Up Hackathon (IETE Amrita)
+- **Cultural Coordinator** – Gokulashtami Event, AVV
+- **Classical Dance Performer** – School-level cultural events
+
+---
+
 ##  Let's Connect
 
 <p align="left">
 <a href="mailto:sanhithaac@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/allampati-chenchu-sanhitha-reddy-47a438352/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/sanhithaac"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://leetcode.com/sanhithaac"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
 
 ---
