@@ -100,15 +100,6 @@ I’m particularly driven by solving complex problems, optimizing system perform
 
 ---
 
-##  Achievements & Leadership
-
-- **AIR 118** – AEEE Exam (2023)
-- **1st Place** – PyTorch: Fire It Up Hackathon (IETE Amrita)
-- **Cultural Coordinator** – Gokulashtami Event, AVV
-- **Classical Dance Performer** – School-level cultural events
-
----
-
 ##  Let's Connect
 
 <p align="left">
